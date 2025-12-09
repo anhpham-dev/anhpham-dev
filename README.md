@@ -14,30 +14,39 @@ Most projects are learning-driven and focused on improving how things are evalua
 ## 🚀 Focus
 - 🤖 Automation  
 - 🌐 Web applications  
-- 🧠 AI systems
+- 🧠 AI systems  
 
 ---
 
 ## 🧰 Tech Stack
-**Languages:** Python · TypeScript · C++  
-**Frameworks / Tools:** Flask · React
+**Languages**
+<br/>
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript)
+![C++](https://img.shields.io/badge/C%2B%2B-111111?style=flat-square&logo=c%2B%2B)
+
+**Frameworks / Tools**
+<br/>
+![Flask](https://img.shields.io/badge/Flask-111111?style=flat-square&logo=flask)
+![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react)
 
 ---
 
-## ⭐ Highlight
+## ⭐ Highlight Project
 ### AnimeScoringIndex
-📊 An experimental, multi-factor scoring system for anime analysis — built as a learning-first project to explore objective evaluation methods.
+📊 An ambitious, learning-first system exploring **objective, multi-factor scoring** in anime analysis.  
+Focused on structure and evaluation logic rather than opinion-based reviews.
 
 ---
 
 ## 🧠 Mindset
 > Build first.  
-> Learn by breaking things.  
-> Polish what matters.
+> Learn aggressively.  
+> Refine with intent.
 
 ---
 
 ## 🌐 Connect
-[💬 Discord — `_.anh.pham._`](https://discord.com/users/_.anh.pham._) ·  
-[📸 Instagram — `_.anh_pham._`](https://instagram.com/_.anh_pham._) ·  
-[👤 Facebook — `anhphamx888`](https://facebook.com/anhphamx888)
+[![Discord](https://img.shields.io/badge/Discord-111111?style=flat-square&logo=discord)](https://discord.com/users/_.anh.pham._)
+[![Instagram](https://img.shields.io/badge/Instagram-111111?style=flat-square&logo=instagram)](https://instagram.com/_.anh_pham._)
+[![Facebook](https://img.shields.io/badge/Facebook-111111?style=flat-square&logo=facebook)](https://facebook.com/anhphamx888)
