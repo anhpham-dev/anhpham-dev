@@ -28,13 +28,7 @@ I tend to learn by shipping things, then figuring out what I did wrong.
 
 ---
 
-## Current project: [Bamboo Airways Virtual](https://bamboo-airways.vercel.app/)
-
-A full virtual airline platform built for the VA (virtual aviation) community in Vietnam.
-
-Users can book flights across 8+ domestic routes (HAN to SGN, SGN to PQC, etc.), browse a real fleet of Airbus aircraft, manage bookings through a dashboard, and earn miles. There's auth, a team system, route/fare logic, and enough moving parts to have kept me busy.
-
-Built with React, deployed on Vercel. Still actively maintained.
+## Current project: I'm out of ideas 💀
 
 ---
 
